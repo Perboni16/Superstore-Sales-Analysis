@@ -5,10 +5,17 @@ For the analysis, the questions will be divided into different parts.
 
 ## Business Overview
 1. What is the total revenue?
+    The total revenue is $2,297,200.86
 2. What is the total profit?
+    The total profit is $286,397.02
 3. How many Orders were made?
+    There was a total of 5,009 Orders made
 4. How many Unique Clients?
+    There was a total of 793 Unique Clients
 5. What is the average Profit margin?
+    The average profit margin is $28.66
+6. What is the average Profit per Order?
+    The average profit per Order is $57.18
 
 ## Product Analysis
 1. Which category have most Sales?
