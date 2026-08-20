@@ -18,15 +18,21 @@ For the analysis, the questions will be divided into different parts.
     - The average profit per Order is $57.18
 
 ## 📦 Product Analysis
-1. Which category have most Sales?
+This section aims to identify the products and categories that contribute the most to revenue and profitability, as well as those negatively impacting business performance.
+
+1. Which category generates the highest Sales?
     - 
-2. Which category have most Profit?
+2. Which category generates the highest Profit?
     - 
-3. Which category generate a loss?
+3. Which category generates losses?
     - 
-4. Which subcategory are most lucrative?
+4. Which subcategory are the most profitable?
     - 
-5. Which products have the highest total profit?
+5. Which products generates the highest total profit?
+    - 
+6. Which products generate the highest losses?
+    - 
+7. How does profitability vary across categories?
     - 
 
 ## 🌎 Geography Analysis
