@@ -4,7 +4,7 @@ The purpose of this analysis is to answer a important business questions.
 For the analysis, the questions will be divided into different parts.
 
 ## Business Overview
-1. What is the total revenue?
+1. What is the total revenue? |
     The total revenue is $2,297,200.86
 2. What is the total profit?
     The total profit is $286,397.02
