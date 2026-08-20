@@ -36,7 +36,9 @@ This section aims to identify the products and categories that contribute the mo
 7. How does profitability vary across categories?
     - 
 
+
 ## 🌎 Geography Analysis
+
 1. What regions have more Sales?
     - 
 2. Which region has most Profit?
@@ -46,7 +48,9 @@ This section aims to identify the products and categories that contribute the mo
 4. What regions have most margin?
     - 
 
+
 ## 👥 Client Profile
+
 1. Which are the best clients?
     - 
 2. Is there revenue concentration?
@@ -56,7 +60,9 @@ This section aims to identify the products and categories that contribute the mo
 4. Which segment has most Profit?
     - 
 
+
 ## 🏷️ Discount
+
 1. What discount is most used?
     - 
 2. Giving discount increases Sales?
