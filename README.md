@@ -1,21 +1,29 @@
 # Superstore Sales Analysis
-The purpose of this analysis is to answer a important business questions.
+This project aims to explore sales performance, profitability, customer behavior and discount strategies using the Superstore dataset.
+The analysis is organized into multiple sections to answer key business questions and generate actionable insights.
 
-For the analysis, the questions will be divided into different parts.
+## 📋 Business Overview
 
-## 📋 Business Overview ##
 1. What is the total revenue?
     - The total revenue is $2,297,200.86
 2. What is the total profit?
     - The total profit is $286,397.02
-3. How many Orders were made?
+3. What is the total number of Orders?
     - There was a total of 5,009 Orders made
-4. How many Unique Clients?
+4. How many unique customers are there?
     - There was a total of 793 Unique Clients
-5. What is the average Profit margin?
+5. What is the average Profit per transaction?
     - The average profit margin is $28.66
-6. What is the average Profit per Order?
-    - The average profit per Order is $57.18
+
+| Metric | Value |
+|--------|-------|
+| Total Revenue | $2,297,200.86 |
+| Total Profit | $286,397.02 |
+| Total Orders | 5,009 |
+| Unique Customers | 793 |
+| Average Profit per trasaction | $28.66 |
+
+
 
 ## 📦 Product Analysis
 
