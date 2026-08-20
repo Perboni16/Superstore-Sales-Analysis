@@ -3,7 +3,7 @@ The purpose of this analysis is to answer a important business questions.
 
 For the analysis, the questions will be divided into different parts.
 
-## 📋 Business Overview
+## 📋 Business Overview ##
 1. What is the total revenue?
     - The total revenue is $2,297,200.86
 2. What is the total profit?
@@ -18,6 +18,7 @@ For the analysis, the questions will be divided into different parts.
     - The average profit per Order is $57.18
 
 ## 📦 Product Analysis
+
 This section aims to identify the products and categories that contribute the most to revenue and profitability, as well as those negatively impacting business performance.
 
 1. Which category generates the highest Sales?
