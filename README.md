@@ -3,7 +3,7 @@ The purpose of this analysis is to answer a important business questions.
 
 For the analysis, the questions will be divided into different parts.
 
-## Business Overview
+## 📋 Business Overview
 1. What is the total revenue?
     - The total revenue is $2,297,200.86
 2. What is the total profit?
@@ -17,7 +17,7 @@ For the analysis, the questions will be divided into different parts.
 6. What is the average Profit per Order?
     - The average profit per Order is $57.18
 
-## Product Analysis
+## 📦 Product Analysis
 1. Which category have most Sales?
     - 
 2. Which category have most Profit?
@@ -29,7 +29,7 @@ For the analysis, the questions will be divided into different parts.
 5. Which products have the highest total profit?
     - 
 
-## Geography Analysis
+## 🌎 Geography Analysis
 1. What regions have more Sales?
     - 
 2. Which region has most Profit?
@@ -39,7 +39,7 @@ For the analysis, the questions will be divided into different parts.
 4. What regions have most margin?
     - 
 
-## Client Profile
+## 👥 Client Profile
 1. Which are the best clients?
     - 
 2. Is there revenue concentration?
@@ -49,7 +49,7 @@ For the analysis, the questions will be divided into different parts.
 4. Which segment has most Profit?
     - 
 
-## Discount
+## 🏷️ Discount
 1. What discount is most used?
     - 
 2. Giving discount increases Sales?
